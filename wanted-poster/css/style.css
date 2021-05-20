@@ -157,4 +157,10 @@ figcaption {
 
 /* Footer */
 
-footer {}
+footer {
+    padding: 1rem;
+    width: 2rem;
+    color:#333;
+    font-style: solid;
+    
+}
