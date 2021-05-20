@@ -65,15 +65,34 @@ h1 {
     text-align:center;
 }
 
+h2 {
+    font-size:3rem;
+    letter-spacing:.25rem;
+    font-weight: normal;
+}
+
+h3 {}
+
+h4 {}
+
+h5 {}
 
 /* Section & Paragraph */
 
+section {}
 
+p {}
 
 /* Image & Figure */
+
+img {}
+
+figure {}
+
+figcaption {}
 
 
 
 /* Footer */
 
-
+footer {}
